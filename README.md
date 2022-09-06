@@ -7,9 +7,9 @@
       - Modern family 摩登家庭
       - Friends 六人行
      - News
-      - Bloomberg news
-      - Cnbc news
-      - BBC
+      -Bloomberg news
+      -Cnbc news
+      -BBC
       - CNN
      - Potcast
       - BBC
